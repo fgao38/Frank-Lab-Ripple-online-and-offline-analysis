@@ -1,0 +1,23 @@
+08-Aug-25 16:08:38 Creating NWB file for session: (np.int64(20250715), 'Jacob')
+08-Aug-25 16:08:38 	rec_filepaths: ['/stelmo/denisse/Jacob/raw/20250715/20250715_Jacob_01_s1/20250715_Jacob_01_s1.rec', '/stelmo/denisse/Jacob/raw/20250715/20250715_Jacob_02_r1/20250715_Jacob_02_r1.rec', '/stelmo/denisse/Jacob/raw/20250715/20250715_Jacob_03_s2/20250715_Jacob_03_s2.rec', '/stelmo/denisse/Jacob/raw/20250715/20250715_Jacob_04_r2/20250715_Jacob_04_r2.rec', '/stelmo/denisse/Jacob/raw/20250715/20250715_Jacob_05_s3/20250715_Jacob_05_s3.rec', '/stelmo/denisse/Jacob/raw/20250715/20250715_Jacob_06_r3/20250715_Jacob_06_r3.rec', '/stelmo/denisse/Jacob/raw/20250715/20250715_Jacob_07_s4/20250715_Jacob_07_s4.rec', '/stelmo/denisse/Jacob/raw/20250715/20250715_Jacob_08_r4/20250715_Jacob_08_r4.rec', '/stelmo/denisse/Jacob/raw/20250715/20250715_Jacob_09_s5/20250715_Jacob_09_s5.rec', '/stelmo/denisse/Jacob/raw/20250715/20250715_Jacob_10_r5/20250715_Jacob_10_r5.rec', '/stelmo/denisse/Jacob/raw/20250715/20250715_Jacob_11_s6/20250715_Jacob_11_s6.rec', '/stelmo/denisse/Jacob/raw/20250715/20250715_Jacob_12_r6/20250715_Jacob_12_r6.rec', '/stelmo/denisse/Jacob/raw/20250715/20250715_Jacob_13_s7/20250715_Jacob_13_s7.rec']
+08-Aug-25 16:08:38 CREATING REC DATA ITERATORS
+08-Aug-25 16:08:38 Parsing headers
+08-Aug-25 16:08:38 Parsing header COMPLETE
+08-Aug-25 16:11:53 # iterators: 20
+08-Aug-25 16:15:55 Reading timestamps COMPLETE
+08-Aug-25 16:15:59 	metadata_filepath: /stelmo/denisse/Jacob/raw/20250715/20250715_Jacob_metadata.yml
+08-Aug-25 16:16:03 CREATING HARDWARE MAPS
+08-Aug-25 16:16:03 CREATING METADATA ENTRIES
+08-Aug-25 16:16:04 ERROR: associated file /stelmo/denisse/Jacob/raw/20250715/20250715_Jacob_02_s1/20250715_Jacob_02_s1.stateScriptLog does not exist
+08-Aug-25 16:16:04 [Errno 2] No such file or directory: '/stelmo/denisse/Jacob/raw/20250715/20250715_Jacob_02_s1/20250715_Jacob_02_s1.stateScriptLog'
+20250715_Jacob_05_s3/20250715_Jacob_05_s3.rec', '/stelmo/denisse/Jacob/raw/20250715/20250715_Jacob_06_r3/20250715_Jacob_06_r3.rec', '/stelmo/denisse/Jacob/raw/20250715/20250715_Jacob_07_s4/20250715_Jacob_07_s4.rec', '/stelmo/denisse/Jacob/raw/20250715/20250715_Jacob_08_r4/20250715_Jacob_08_r4.rec', '/stelmo/denisse/Jacob/raw/20250715/20250715_Jacob_09_s5/20250715_Jacob_09_s5.rec', '/stelmo/denisse/Jacob/raw/20250715/20250715_Jacob_10_r5/20250715_Jacob_10_r5.rec', '/stelmo/denisse/Jacob/raw/20250715/20250715_Jacob_11_s6/20250715_Jacob_11_s6.rec', '/stelmo/denisse/Jacob/raw/20250715/20250715_Jacob_12_r6/20250715_Jacob_12_r6.rec', '/stelmo/denisse/Jacob/raw/20250715/20250715_Jacob_13_s7/20250715_Jacob_13_s7.rec']
+08-Aug-25 16:08:38 CREATING REC DATA ITERATORS
+08-Aug-25 16:08:38 Parsing headers
+08-Aug-25 16:08:38 Parsing header COMPLETE
+08-Aug-25 16:11:53 # iterators: 20
+08-Aug-25 16:15:55 Reading timestamps COMPLETE
+08-Aug-25 16:15:59 	metadata_filepath: /stelmo/denisse/Jacob/raw/20250715/20250715_Jacob_metadata.yml
+08-Aug-25 16:16:03 CREATING HARDWARE MAPS
+08-Aug-25 16:16:03 CREATING METADATA ENTRIES
+08-Aug-25 16:16:04 ERROR: associated file /stelmo/denisse/Jacob/raw/20250715/20250715_Jacob_02_s1/20250715_Jacob_02_s1.stateScriptLog does not exist
+08-Aug-25 16:16:04 [Errno 2] No such file or directory: '/stelmo/denisse/Jacob/raw/20250715/20250715_Jacob_02_s1/20250715_Jacob_02_s1.stateScriptLog'
